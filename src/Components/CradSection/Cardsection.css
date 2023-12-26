@@ -1,0 +1,16 @@
+.car-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.car-container .cart-box {
+    margin: 20px 10px 0px;
+}
+.car-container .cart-box a{
+    
+    text-decoration: none;
+}
